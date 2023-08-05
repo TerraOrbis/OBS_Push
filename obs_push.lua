@@ -13,8 +13,7 @@
 
 --output file path--
 --A dialog box will pop up when activating the extension
---but here's where the default is stored.
-file_path = "c:/users/david/desktop/current_song.txt"
+file_path = "%UserProfile%/desktop/current_song.txt"
 
 --[VLC extension stuff]--
 
